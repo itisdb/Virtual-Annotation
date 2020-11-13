@@ -26,6 +26,6 @@ Voila!
 The main aim of the project is to convert the entire steps ahead in a single double click .exe
 The .exe has to be tapped and it has its own virtual camera feedback that can be used as an input in conferencing app.
 
-For the reference of what this code can do visit this link and look at the video: https://www.linkedin.com/posts/dhriteshbhagat_design-machinelearning-innovation-activity-6730755068972347392-dIZY
+For the reference of what this code can do visit this link and look at the video: 
 
 [![Watch the video](https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/07/Fotolia_117855281_Subscription_Monthly_M.jpg)](https://www.linkedin.com/posts/dhriteshbhagat_design-machinelearning-innovation-activity-6730755068972347392-dIZY)
